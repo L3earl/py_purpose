@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "eda-ydata-profiling"
+version = "0.1.0"
+description = ""
+authors = ["year <sainknight87@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.12"
+ydata-profiling = "^4.10.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
