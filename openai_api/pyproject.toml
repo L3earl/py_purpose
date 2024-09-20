@@ -7,10 +7,9 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-dotenv-python = "^0.0.1"
-openai = "^1.45.0"
-python-dotenv = "^1.0.1"
 pandas = "^2.2.2"
+openai = "^1.46.1"
+nltk = "3.8.1"
 
 
 [build-system]
