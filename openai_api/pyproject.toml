@@ -10,6 +10,10 @@ python = "^3.12"
 pandas = "^2.2.2"
 openai = "^1.46.1"
 nltk = "3.8.1"
+ftfy = "^6.2.3"
+pylanguagetool = "^0.10.1"
+language-tool-python = "^2.8.1"
+gingerit = "^0.0.0.1"
 
 
 [build-system]
