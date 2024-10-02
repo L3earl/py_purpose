@@ -3,3 +3,4 @@
 **/data/
 EDA_ydata_profiling/ydata_profiling/
 EDA_sweetviz/sweetviz_report/
+openai_api/.env

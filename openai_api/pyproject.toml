@@ -14,10 +14,8 @@ ftfy = "^6.2.3"
 pylanguagetool = "^0.10.1"
 language-tool-python = "^2.8.1"
 gingerit = "^0.0.0.1"
-<<<<<<< HEAD
 streamlit = "^1.38.0"
-=======
->>>>>>> e429f297e8a3d98463116468546efc22abbb7080
+python-dotenv = "^1.0.1"
 
 
 [build-system]
