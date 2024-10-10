@@ -42,7 +42,7 @@ model_lst = [
             # "Qwen/Qwen2.5-3B-Instruct", 
             #  "Qwen/Qwen2.5-7B-Instruct", 
             #  "Qwen/Qwen2.5-14B-Instruct", 
-             "Qwen/Qwen2.5-32B-Instruct", 
+             "Qwen/Qwen2.5-32B-Instruct"
             #  "Qwen/Qwen2.5-72B-Instruct",
             #  'meta-llama/Llama-3.1-405B-Instruct',
             # "upstage/solar-pro-preview-instruct"
