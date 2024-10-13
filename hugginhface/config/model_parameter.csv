@@ -1,0 +1,11 @@
+model_name,max_new_tokens,temperature,top_p,top_k,repetition_penalty,unique_name
+meta-llama/Llama-3.2-1B-Instruct,1024,,,,,meta-llama/Llama-3.2-1B-Instruct_1024_N_N_N_N
+meta-llama/Llama-3.2-1B-Instruct,1024,0.8,1.0,20.0,1.2,meta-llama/Llama-3.2-1B-Instruct_1024_0.8_1.0_20.0_1.2
+meta-llama/Llama-3.2-3B-Instruct,1024,,,,,meta-llama/Llama-3.2-3B-Instruct_1024_N_N_N_N
+meta-llama/Llama-3.2-3B-Instruct,1024,0.6,0.9,50.0,1.2,meta-llama/Llama-3.2-3B-Instruct_1024_0.6_0.9_50.0_1.2
+meta-llama/Llama-3.2-3B-Instruct,1024,0.6,,,,meta-llama/Llama-3.2-3B-Instruct_1024_0.6_N_N_N
+meta-llama/Llama-3.1-8B-Instruct,1024,,,,,meta-llama/Llama-3.1-8B-Instruct_1024_N_N_N_N
+Qwen/Qwen2.5-1.5B-Instruct,1024,,,,,Qwen/Qwen2.5-1.5B-Instruct_1024_N_N_N_N
+Qwen/Qwen2.5-3B-Instruct,1024,,,,,Qwen/Qwen2.5-3B-Instruct_1024_N_N_N_N
+Qwen/Qwen2.5-3B-Instruct,512,0.7,0.95,,,Qwen/Qwen2.5-3B-Instruct_512_0.7_0.95_N_N
+Qwen/Qwen2.5-7B-Instruct,1024,,,,,Qwen/Qwen2.5-7B-Instruct_1024_N_N_N_N
